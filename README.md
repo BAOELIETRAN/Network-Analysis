@@ -7,8 +7,10 @@ Network Analysis is a Python program that helps users capture and display networ
 
 
 
-**Here is a feature that help users find the shortest path from one node to the other node:**</br>
+**Here is a feature that helps users find the shortest path from one node to the other node:**</br>
 ![Screenshot (1843)](https://github.com/user-attachments/assets/77da32bf-f5f9-4083-873f-ce848cdb8094)
 
-
-
+## Implementation
+<a href="https://www.instagram.com/thepiyushmalhotra/">
+  <img height="50" src="![python-logo-1](https://github.com/user-attachments/assets/7639cde4-724c-42b8-a04c-c38e5905daae)"/>
+</a>
