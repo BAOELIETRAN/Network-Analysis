@@ -3,4 +3,5 @@ Network Analysis is a Python program that helps users capture and display networ
 
 **Here are some of the images:**</br>
 
+![image](https://github.com/user-attachments/assets/0c464625-374e-4246-856f-1e141acc3f72)
 
